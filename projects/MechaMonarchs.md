@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Mecha Monarchs.jpeg
 title: Damien Mechamonarchs
-permalink: projects/micromouse
+permalink: projects/MechaMonarchs
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-22
 labels:
