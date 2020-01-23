@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: images/Mecha Monarchs.jpeg
-title: Damien Mechamonarchs
+image: images/Surfing Cat.png	
+title: Surfing Cat
 permalink: projects/MechaMonarchs
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-22
+date: 2018-11-10
 labels:
-  - Robotics
-  - Python
+  - Java
+  - EZ Library
   - Mechanical Engineering
 summary: My highschool robotics team won the regionals for the 2017 FRC competition.
 ---
 
 
-<img class="ui large centered rounded image" src="/images/Surfing Cat Game.jpg">
+<img class="ui large centered rounded image" src="/images/Surfing Cat Game.png">
 
 Surfing Cat was my one of my projects for ICS 111. This was a game where you can control a surfing cat with WASD controls with the objective of living as long as possible. You have two number gauges for food and water that slowly decrease as the game goes on. In order to keep those up, you need to collect the Oreos (For the food gauge) and Milk Tea Boba (For the water gauge). There are three hurricanes that are spawned at random areas and constantly move left and right of the screen. Touching them causes both gauges to decrease faster, and once one of the gauges hit 0, it's game over.
 
