@@ -20,6 +20,5 @@ Surfing Cat was one of my projects for ICS 111. This was a game where you can co
 This project demonstrated the knowledge I gained of programming - such as for/while loops, conditionals, functions, etc. - from this semester. It used Java as the language for programming while using the JavaEZ library for easier implementations for adding images. This project also allowed for good problem solving skills, which is a tool integral to software engineering and helped with time management skills as we only had two weeks to create the game.
 
 
-You can watch a video of the game [here](https://www.youtube.com/watch?v=3yyVaiVR6m8
-):
+You can watch a video of the game [here](https://www.youtube.com/watch?v=3yyVaiVR6m8):
 
