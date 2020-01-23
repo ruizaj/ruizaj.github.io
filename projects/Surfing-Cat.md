@@ -21,4 +21,5 @@ This project demonstrated the knowledge I gained of programming - such as for/wh
 
 
 You can watch a video of the game here:
-https://youtu.be/3yyVaiVR6m8
+
+https://www.youtube.com/watch?v=3yyVaiVR6m8
