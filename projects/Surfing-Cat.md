@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Surfing Cat.png	
 title: Surfing Cat
-permalink: projects/Surfing Cat
+permalink: projects/Surfing-Cat
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-10
 labels:
