@@ -2,7 +2,7 @@
   "basics": {
     "name": "Andre Joseph Ruiz",
     "label": "Student",
-    "picture": "https://ruizaj.github.io/template/images/Final.JPG",
+    "picture": "https://ruizaj.github.io/images/Final.JPG",
     "email": "ruizaj@hawaii.edu",
     "phone": "808-597-7646",
     "website": "https://ruizaj.github.io",
@@ -24,32 +24,22 @@
         "network": "linkedin",
         "username": "Andre Joseph Ruiz",
         "url": "https://www.linkedin.com/in/andre-joseph-ruiz-33a67819b/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/ajruiz808"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/ajruiz808"
       }
     ]
   },
   "interests": [
     {
-      "name": "cybersecurity",
+      "name": "Cybersecurity",
       "keywords": [
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Information Networking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
