@@ -5,7 +5,7 @@ image: images/Mecha Monarchs.jpeg
 title: Damien Mechamonarchs
 permalink: projects/MechaMonarchs
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-22
+date: 2017-04-01
 labels:
   - Robotics
   - Python
