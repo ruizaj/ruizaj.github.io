@@ -12,7 +12,7 @@ labels:
 
 
 ## A Foundation For Every Discipline
-<img class="ui medium centered image" src="../images/Software-Computer.jpeg">
+<img class="ui large centered image" src="../images/Software-Computer.jpeg">
 Initially, I always thought that software engineering was specifically for those who wanted to go into web design and so I was never really interested. But when I became an ICS student and started looking at the various niches in computer science, I noticed that software engineering was present in all of them. It is a baseline for a lot of these branches as it is needed for a lot of program designing and maintanence. Although they are categorized as two different majors, they have so much in common so the things that I learn from software engineering will apply to computer science. 
 
 ## Stepping Stones into Software Engineering
