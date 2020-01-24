@@ -11,7 +11,7 @@ labels:
   - Coding
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+
 
 ## Never Judge A Code By Its Syntax
 I have heard many things about JavaScript through my lifetime as being very polarized. I had people tell me that it is one of the most annoying languages and should be replaced by something better, while others praised it for being the most flexible language. Naturally, I was quite scared to see what was all the hoopla was about. When we were given our first assignment in ICS 314 to go through 132 exercises, I thought that I would have to relearn a coding language from the ground up, but that isn't quite the case. The overall structure of JavaScript has a lot of similarities with other languages like C++ and Java, so it was quite easy to understand the basics. It still followed the same logic operations like while and for loops, as well as using the same rules for local scope vs global scope depending on where you initiate variables.
@@ -20,8 +20,7 @@ What makes JavaScript quite different from other coding languages is the amount 
 
 ## Athletic Software Engineering and WODs: The P90X of Coding 
 
-<iframe class= "ui medium right floated iframe" src="https://giphy.com/embed/H3CViADSOAHdK" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/H3CViADSOAHdK">via GIPHY</a></p>
-
+<img class="ui middle right floated image" src="../images/type-fast.gif">
 One thing that makes our ICS 314 classes unique is its approach to learning. "Athletic Software Engineering" is the idea of putting ourselves into really stressful coding situations to simulate real software engineering situations. For this class, we have WODs or "Workouts of the Day" which forces us to solve coding problems in a very limited amount of time. Initially, the tasks that we are asked isn't too difficult, but because of the time limit my mind basically goes haywire, scrambling for solutions. In my first few practice WODs, I thought the problems were easy and yet I constantly tripped up on even the smallest lines of code. When it was times up, I was left with a broken code that was messy and didn't work as intended.
 
 I thought this was absolute insanity because I don't have a good grasp of JavaScript yet and I'm not the fastest coder, but that's exactly why the WODs are necessary. Having the practice WODs help me understand which aspects of coding I need to work on, and with consistent effort I'm sure it'll mold me to become 
