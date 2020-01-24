@@ -21,5 +21,5 @@ What makes JavaScript quite different from other coding languages is the amount 
 ## The P90X of Coding: WODs 
 Another crucial part of our ICS 314 class is our WODs, or "Workouts of the Day" 
 
-
+## 
 
