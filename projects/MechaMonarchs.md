@@ -14,7 +14,7 @@ summary: My highschool robotics team won the regionals for the 2017 FRC competit
 ---
 
 
-<img class="ui large centered rounded image" src="/images/Steamworks.jpg">
+<img class="ui image" src="/images/Steamworks.jpg">
 
 FRC or the "First Robotics Competition" is a international competition held annually to create a robot that can solve a various amount of tasks. That year, the theme was called "First Steamworks" where the tasks consisted of having a robot that can grab cogs and placing them into slots on an air ship, shooting balls into various goals, and climbing onto the airship. The competition works on a point-based system where each task holds a different value, so the competition came down to efficiently doing as much tasks as possible to get the most points before the time ends. There are two phases of the competition, an autonomous portion (robots must commit tasks without any outside help) where you can gain more points, and the human controlled potion. The competition is also a 3 v 3 event, so there were definite levels of teamwork needed for one team to win.
 
