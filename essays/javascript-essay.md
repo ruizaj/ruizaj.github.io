@@ -23,7 +23,7 @@ What makes JavaScript quite different from other coding languages is the amount 
 
 ## Athletic Software Engineering and WODs: The P90X of Coding 
 
-<img class="ui left floated image" src="../images/type-fast.gif">
+<img class="ui right floated image" src="../images/type-fast.gif">
 One thing that makes our ICS 314 classes unique is its approach to learning. "Athletic Software Engineering" is the idea of putting ourselves into really stressful coding situations to simulate real software engineering situations. For this class, we have WODs or "Workouts of the Day" which forces us to solve coding problems in a very limited amount of time. Initially, the tasks that we are asked isn't too difficult, but because of the time limit my mind basically goes haywire, scrambling for solutions. In my first few practice WODs, I thought the problems were easy and yet I constantly tripped up on even the smallest lines of code. When it was times up, I was left with a broken code that was messy and didn't work as intended.
 
 I thought this was absolute insanity because I don't have a good grasp of JavaScript yet and I'm not the fastest coder, but that's exactly why the WODs are necessary. Having the practice WODs help me understand which aspects of coding I need to work on, and with consistent effort I'm sure it'll mold me to become 
