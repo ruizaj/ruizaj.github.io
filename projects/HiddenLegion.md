@@ -21,7 +21,7 @@ Ever since 2014, the Destiny series was one of my favorite video game franchises
 
 As I was one of the more active members, I ultimately became one of the leaders for the PS4 division of the group. This meant that I would schedule raid times, manage which people will be in which groups for the raids, be flexible with others, and just maintain overall order. There is a lot of preparation going into raids, from getting to the prerequisite item levels, to understanding the mechanics of each raid, so I was one of the people to help out and mentor people if needed. Although we are all friends and we do like to mess around, I try to keep a form of professionalism as a leader so that people will stick to their tasks and so we can finish our goals efficiently. This allowed me to build of leadership and communication skills, as well as helped me understand task relegation so that people can utilize their strengths to the fullest.
 
-<img class="ui medium left floated image" src="/images/cotton-header.png">
+<img class="ui medium left floated image" src="/images/RaidDiscord.png">
 [Discord](https://discordapp.com/) became a blessing for the group as it became a catalyst for organization. It became a place to easily put out schedules that we made over Excel and allows for sectioning channels for different tasks at hand. From this moderating I also gained a good grasp of time management, as everyone has their schedules to withhold so I had to juggle raid schedules in order for that to happen. 
 
 
