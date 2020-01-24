@@ -15,7 +15,7 @@ labels:
 
 ## Never Judge A Code By Its Syntax
 
-<img class="ui medium image" src="../images/Java-Vs-JavaScript.jpg">
+<img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
 
 I have heard many things about JavaScript through my lifetime as being very polarized. I had people tell me that it is one of the most annoying languages and should be replaced by something better, while others praised it for being the most flexible language. Naturally, I was quite scared to see what was all the hoopla was about. When we were given our first assignment in ICS 314 to go through 132 exercises, I thought that I would have to relearn a coding language from the ground up, but that isn't quite the case. The overall structure of JavaScript has a lot of similarities with other languages like C++ and Java, so it was quite easy to understand the basics. It still followed the same logic operations like while and for loops, as well as using the same rules for local scope vs global scope depending on where you initiate variables.
 
