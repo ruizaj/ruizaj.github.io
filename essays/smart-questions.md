@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: When you put var, did you mean int or string? Javascripts Good and Bad
+title: One For All: Smart Questions Benefit Everyone
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
