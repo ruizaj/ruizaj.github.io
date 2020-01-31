@@ -6,9 +6,9 @@ title: When you put var, did you mean int or string? Javascripts Good and Bad
 date: 2020-01-30
 labels:
   - Software Engineering
-  - Javascript
-  - WODS
-  - Coding
+  - Smart Questions
+  - Stack Overflow
+  - Poor Questions
 ---
 
 <img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
