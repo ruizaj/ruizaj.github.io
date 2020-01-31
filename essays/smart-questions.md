@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: One For All: Smart Questions
+title: When you put var, did you mean int or string? Javascripts Good and Bad
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
-  - Smart Questions
-  - Stack Overflow
   - Software Engineering
-  - Eric Raymond
+  - Javascript
+  - WODS
+  - Coding
 ---
 
 <img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
