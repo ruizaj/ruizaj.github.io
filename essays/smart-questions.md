@@ -10,11 +10,8 @@ labels:
   - Stack Overflow
 ---
 
-<img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
-
 Eric Raymond's essay on [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) goes on about the best way to ask a programming or software question to software engineers to ensure answers that have efficiency and quality. With his steps, users who need help can ensure that they won't become "lusers", a witty term for those who ask dumb questions like "What is Windows 10?" or "Can someone sift through my code to find what is wrong with it?" It makes sense that questions like this is irksome and a waste of time, but do you really need to ask smart questions of you want to be a successful software engineer? How does one ask a question that won't make them labeled a "luser?"
 
-<img class="ui left medium floated image" src="../images/open-bird-cage.png">
 ## Coding for Dummies: To Spot A Poor Question
 In [this question](https://stackoverflow.com/questions/27199403/how-can-i-copy-error-from-console-to-file-and-where-to-include-the-code-and-what?rq=1) we see a "luser" who wants to be able to print out the error from the console onto a file. Just looking at the question at hand, it already exudes laziness and lack of clarity. Looking at the header alone, it won't attract much people to answer the question as it is ridiculously long. Eric Raymond talks about how a header should only be concise and specifies what is specifically needed. This luser, however, wrote a long run-on sentence that is confusing to understand what is wanted. This title gives no information on what coding language is used, and is overall unappealing for anyone to want to help out.
 
