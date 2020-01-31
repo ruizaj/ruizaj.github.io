@@ -8,8 +8,8 @@ labels:
   - Smart Questions
   - Stack Overflow
   - Software Engineering
+  - Eric Raymond
 ---
-
 
 <img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
 
