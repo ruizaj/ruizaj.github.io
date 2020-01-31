@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: One For All: Smart Questions Benefit Everyone
+title: Smart Questions Benefit Everyone
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
