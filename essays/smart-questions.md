@@ -22,7 +22,7 @@ Lastly, the luser asks in the replies for the code to put the console error into
 
 ## Now What Makes A Question Smart?
 
-<img class="ui right floated image" src="../images/big-brain.PNG">
+<img class="ui small right floated image" src="../images/big-brain.PNG">
 For [this excellent question](https://stackoverflow.com/questions/6270837/how-to-debug-a-runtime-stack-underflow-error) this person is asking how to debug a runtime stack underflow error. From the get-go, you can tell that this person has put a decent amount of effort into solving their problem on their own before inquiring with a forum. They were able to traceback where the error lies within the runtime and explained why they are having trouble with debugging the error. This really shows that this user is willing to to answer this question on their own before consulting others. The extra amount of effort increases the quality of the question asked and also prevents others from asking the same question when they search for their own answers. 
 
 Another thing that makes this question smart is that the user gives more context to the error. They showed their own troubleshooting as they talk about the parts of their code that was successful. Not only does this single the problem to one point of interest so that others can solve the question more easily, it allows others with the same or similar problems to figuring out where they went wrong and whether the answers given will be beneficial to them.
