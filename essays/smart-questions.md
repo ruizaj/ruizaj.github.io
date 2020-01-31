@@ -10,6 +10,7 @@ labels:
   - Software Engineering
 ---
 
+
 <img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
 
 Eric Raymond's essay on [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) goes on about the best way to ask a programming or software question to software engineers to ensure answers that have efficiency and quality. With his steps, users who need help can ensure that they won't become "lusers", a witty term for those who ask dumb questions like "What is Windows 10?" or "Can someone sift through my code to find what is wrong with it?" It makes sense that questions like this is irksome and a waste of time, but do you really need to ask smart questions of you want to be a successful software engineer? How does one ask a question that won't make them labeled a "luser?"
