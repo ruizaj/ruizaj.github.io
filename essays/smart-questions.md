@@ -26,7 +26,7 @@ Lastly, the luser asks in the replies for the code to put the console error into
 ## Now What Makes A Question Smart?
 
 <img class="ui right floated image" src="../images/type-fast.gif">
-For [this excellent question] this person is asking how to debug a runtime stack underflow error. From the get-go, you can tell that this person has put a decent amount of effort into solving their problem on their own before inquiring with a forum. They were able to traceback where the error lies within the runtime and explained why they are having trouble with debugging the error. This really shows that this user is willing to to answer this question on their own before consulting others. The extra amount of effort increases the quality of the question asked and also prevents others from asking the same question when they search for their own answers. 
+For [this excellent question](https://stackoverflow.com/questions/6270837/how-to-debug-a-runtime-stack-underflow-error) this person is asking how to debug a runtime stack underflow error. From the get-go, you can tell that this person has put a decent amount of effort into solving their problem on their own before inquiring with a forum. They were able to traceback where the error lies within the runtime and explained why they are having trouble with debugging the error. This really shows that this user is willing to to answer this question on their own before consulting others. The extra amount of effort increases the quality of the question asked and also prevents others from asking the same question when they search for their own answers. 
 
 Another thing that makes this question smart is that the user gives more context to the error. They showed their own troubleshooting as they talk about the parts of their code that was successful. Not only does this single the problem to one point of interest so that others can solve the question more easily, it allows others with the same or similar problems to figuring out where they went wrong and whether the answers given will be beneficial to them.
 
@@ -34,7 +34,7 @@ And the last point that makes this question overall great is how even though the
 
 ## The Million Dollar Question: Why is it Necessary?
 
-Overall, smart questions have the ability to not only give you quality answers, it will also proliferate the knowledge to others as well. It allows for 
+Smart questions have the ability to not only give you quality answers, it will also proliferate the knowledge to others as well. It narrows the problem to its simplest form which allows for answers that will benefit the user more. And later on in the future, these smart questions will help users with the same kind of questions to get some ideas from the discussions made from them, and possibly create smart questions of their own. Overall, making smart questions is timeless will help those now and much later on in the future. So when you need to ask for help on a problem, make sure you create a smart question!
 
 
 
