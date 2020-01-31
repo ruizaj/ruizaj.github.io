@@ -1,32 +1,39 @@
 ---
 layout: essay
 type: essay
-title: When you put var, did you mean int or string? Javascripts Good and Bad
+title: One For All: Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
+  - Smart Questions
+  - Stack Overflow
   - Software Engineering
-  - Javascript
-  - WODS
-  - Coding
 ---
-
-
-
-## Never Judge A Code By Its Syntax
 
 <img class="ui large centered image" src="../images/Java-Vs-JavaScript.jpg">
 
-I have heard many things about JavaScript through my lifetime as being very polarized. I had people tell me that it is one of the most annoying languages and should be replaced by something better, while others praised it for being the most flexible language. Naturally, I was quite scared to see what was all the hoopla was about. When we were given our first assignment in ICS 314 to go through 132 exercises, I thought that I would have to relearn a coding language from the ground up, but that isn't quite the case. The overall structure of JavaScript has a lot of similarities with other languages like C++ and Java, so it was quite easy to understand the basics. It still followed the same logic operations like while and for loops, as well as using the same rules for local scope vs global scope depending on where you initiate variables.
+Eric Raymond's essay on [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) goes on about the best way to ask a programming or software question to software engineers to ensure answers that have efficiency and quality. With his steps, users who need help can ensure that they won't become "lusers", a witty term for those who ask dumb questions like "What is Windows 10?" or "Can someone sift through my code to find what is wrong with it?" It makes sense that questions like this is irksome and a waste of time, but do you really need to ask smart questions of you want to be a successful software engineer? How does one ask a question that won't make them labeled a "luser?"
 
 <img class="ui left medium floated image" src="../images/open-bird-cage.png">
-What makes JavaScript quite different from other coding languages is the amount of freedom that you can have. The main thing that popped at me instantly once learning was how all data types were under one thing: var. This one change meant so much! This meant that arrays can hold any datatype, functions can return any datatypes, and much much more. This is quite liberating in comparison to Java, but this could also be a bad thing as it is hard to juggle which variables hold with datatype at a point in time. But with the inclusion of the "ES6" module, var is replaced with let and const variables, which definitely helped out with understanding the scope of each variable.  Another thing that I quite like about JavaScript is how it is an intepreted language, meaning we didn't need compilers like every other language that I learned thus far, meaning that I can just type out code on a browser and it can be run on the spot. 
+## Coding for Dummies: To Spot A Poor Question
+In [this question](https://stackoverflow.com/questions/27199403/how-can-i-copy-error-from-console-to-file-and-where-to-include-the-code-and-what?rq=1) we see a "luser" who wants to be able to print out the error from the console onto a file. Just looking at the question at hand, it already exudes laziness and lack of clarity. Looking at the header alone, it won't attract much people to answer the question as it is ridiculously long. Eric Raymond talks about how a header should only be concise and specifies what is specifically needed. This luser, however, wrote a long run-on sentence that is confusing to understand what is wanted. This title gives no information on what coding language is used, and is overall unappealing for anyone to want to help out.
 
-## Athletic Software Engineering and WODs: The P90X of Coding 
+Continuing on, they further prove their laziness by throwing in their whole code with no explanation with what it is supposed to do, or what is the problem with it. It is also formatted very weird where half of the code is in the description and the rest is in the coding block under. After looking close at the code, one can see that it is java code for putting input into a file, but this should've been explained by the luser. They also didn't give an explanation of what they did to fix this problem, so it just shows that they really didn't care to search out the answer through different means and went straight to forums to ask for help. Not only is troubleshooting your own problems before asking essential, it allows gives you valuable insight onto the problem and helps with resolving the issue yourself.
+
+Lastly, the luser asks in the replies for the code to put the console error into a file. This comes off as extremely entitled because it comes off as they want people to make code to fix their problem. This kind of question doesn't ask for positive input for how to approach the problem, but instead asking someone else to do it for them. It also seems like this question being asked is pointless, as stated from a reply that this code already does as intended, so why ask for a code to write the error into a file? If you intend to ask a question, make sure that there are reasons for it, or else it will come as such a goose chase. You need to have direction with your questions or else people will be confused with what you want and you'll end up like this luser.
+
+## Now What Makes A Question Smart?
 
 <img class="ui right floated image" src="../images/type-fast.gif">
-One thing that makes our ICS 314 classes unique is its approach to learning. "Athletic Software Engineering" is the idea of putting ourselves into really stressful coding situations to simulate real software engineering situations. For this class, we have WODs or "Workouts of the Day" which forces us to solve coding problems in a very limited amount of time. Initially, the tasks that we are asked isn't too difficult, but because of the time limit my mind basically goes haywire, scrambling for solutions. In my first few practice WODs, I thought the problems were easy and yet I constantly tripped up on even the smallest lines of code. When it was times up, I was left with a broken code that was messy and didn't work as intended.
+For [this excellent question] this person is asking how to debug a runtime stack underflow error. From the get-go, you can tell that this person has put a decent amount of effort into solving their problem on their own before inquiring with a forum. They were able to traceback where the error lies within the runtime and explained why they are having trouble with debugging the error. This really shows that this user is willing to to answer this question on their own before consulting others. The extra amount of effort increases the quality of the question asked and also prevents others from asking the same question when they search for their own answers. 
 
-I thought this was absolute insanity because I don't have a good grasp of JavaScript yet and I'm not the fastest coder, but that's exactly why the WODs are necessary. Having the practice WODs help me understand which aspects of coding I need to work on, and with consistent effort I'm sure it'll mold me to become 
-a better programmer overall. For now, I'm not a huge fan of the learning style but I know it will benefit exponentially in the end. 
+Another thing that makes this question smart is that the user gives more context to the error. They showed their own troubleshooting as they talk about the parts of their code that was successful. Not only does this single the problem to one point of interest so that others can solve the question more easily, it allows others with the same or similar problems to figuring out where they went wrong and whether the answers given will be beneficial to them.
+
+And the last point that makes this question overall great is how even though the user had their answer solved, they made updates on discoveries that could potentially help others, and left the question an open forum for others with similar problems to have a platform to find solutions. In this way, it allows for programmers to cover upon other aspects of debugging this problem so that less people would need to ask this question in the future. A smart question not only will help the user asking it, but also others who have problems that relate in a similar fashion.
+
+## The Million Dollar Question: Why is it Necessary?
+
+Overall, smart questions have the ability to not only give you quality answers, it will also proliferate the knowledge to others as well. It allows for 
+
+
 
