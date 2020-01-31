@@ -34,7 +34,7 @@ And the last point that makes this question overall great is how even though the
 ## The Million Dollar Question: Why is it Necessary?
 
 <img class="ui right floated image" src="../images/one-for-all.gif">
-Smart questions have the ability to not only give you quality answers, it will also proliferate the knowledge to others as well. It narrows the problem to its simplest form which allows for answers that will benefit the user more. And later on in the future, these smart questions will help users with the same kind of questions to get some ideas from the discussions made from them, and possibly create smart questions of their own. Overall, making smart questions is timeless will help those now and much later on in the future. So when you need to ask for help on a problem, make sure you create a smart question!
+Smart questions have the ability to not only give you quality answers, it will also proliferate the knowledge to others as well. It narrows the problem to its simplest form which allows for answers that will benefit the user more. And later on in the future, these smart questions will help users with the same kind of questions to get some ideas from the discussions made from them, and possibly create smart questions of their own. Overall, making smart questions is timeless, as they will help those now and later on in the future. So when you need to ask for help on a problem, make sure you create a smart question!
 
 
 
