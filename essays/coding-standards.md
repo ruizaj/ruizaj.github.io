@@ -19,7 +19,7 @@ Recently, I have been taking a linguistics class and although there are almost 6
 
 ## Learning Through Trial and Error
 
-Standards are needed as they make code look organized and with those coding standards, you will notice how certain parts of how the coding language works. One example of this that I found with ESLint is whenever I use a variable, <img class="ui left medium floated image" src="../images/trial-error.gif"> if I’m not manipulating its values,  the inspector would make me change it from ‘let’ to ‘const’. Before, I would think it is unnecessary to do so for most of the code that I would make, but I realized it is necessary because there will be a time that I will need to maintain the scope of variables for long strips of code. With each error like this, you get to see a bit of why each part of a code is used and with time it will could definitely teach you the programming language as a whole.
+Standards are needed as they make code look organized and with those coding standards, you will notice how certain parts of how the coding language works. One example of this that I found with ESLint is whenever I use a variable, if I’m not manipulating its values, <img class="ui left medium floated image" src="../images/trial-error.gif"> the inspector would make me change it from ‘let’ to ‘const’. Before, I would think it is unnecessary to do so for most of the code that I would make, but I realized it is necessary because there will be a time that I will need to maintain the scope of variables for long strips of code. With each error like this, you get to see a bit of why each part of a code is used and with time it will could definitely teach you the programming language as a whole.
 
 ## ESLint: The Strict Parent of Coding 
 
