@@ -18,7 +18,8 @@ Coming into understanding UI Frameworks, I basically had zero knowledge of what 
 ## The Toolbox of Web Design
 
 Semantic UI was like a punch to the face upon its first introduction to my measly knowledge of website design. Those 3 hours of tutorial videos felt like a tsunami of information to take in, and to be honest I couldn’t cram it all in at the beginning. It felt like I started somewhat back to square one in order to memorize everything. But as we went through our WODs to understand small aspects of each function, our rudimentary websites started to look much better. Hyperlinks started turning into menus, buttons, and dropdown lists that showed a glimpse of what a modern website will look like. And before I knew it, I was able to replicate professionally made websites all on my own and that was the greatest feeling to have throughout this experience.
-
+<img class="ui medium left image" src="../images/Bungie-Original.png">
+<img class="ui medium original image" src="../images/Bungie-Recreated.png">
 ## Why Semantic UI?
 
 Of course, we can ask ourselves why even use a library like Semantic UI to make our websites, but in my opinion I think it is a fantastic tool. Most of us in this class are only introduced into this concept of web design and Semantic UI really helped understanding and creating websites way easier. There was quite a lot of memorization and understanding that went into learning this framework, but ultimately it benefitted my understanding of HTML and CSS as a whole. Most of all, it made designing these websites way easier as I don’t know how to implement buttons of menus on my own. So thank you Semantic UI.
