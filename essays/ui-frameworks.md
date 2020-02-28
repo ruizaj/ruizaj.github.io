@@ -13,7 +13,7 @@ labels:
 
 ## From Text Changes to Professional Websites
 
-<img class="ui medium right image" src="../images/website.gif">
+<img class="ui medium right floated image" src="../images/website.gif">
 Coming into understanding UI Frameworks, I basically had zero knowledge of what it would look like. I have helped out friends with their Tumblr pages years back, but I never really understood how concepts like HTML and CSS worked. Although people said learning was going to be easy, I was quite daunted by the idea that I could make a whole website in less than 2 weeks. And boy was I wrong. After understanding a bit of how HTML and CSS functions, I realized that although there is a lot of memorization for specific parts initially, the overall usage of these tools was very streamlined. I went from putting small texts in a static web page, to creating entire websites that have functioning hyperlinks and a somewhat decent design. But even though it was quite the feat on its own, I knew it wasn’t gonna just stop there at some early 2000s looking web designs.
 
 ## The Toolbox of Web Design
