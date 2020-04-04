@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Rough Beginnings
 # All dates must be YYYY-MM-DD format!
-date: 2020-4-03
+date: 2020-04-03
 labels:
   - COVID-19
   - Zoom
