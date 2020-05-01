@@ -18,4 +18,13 @@ If you have ever cooked something in your life, you would know that there are st
 
 Now that I understand what design patterns for, it is easy to see when I have been using them for my code. For the bulk of my 211 Java learning, I have used design patterns that focus on the scope of specific classes and objects. More specifically, I learned how to manipulate private class data, and used proxies to change the importance of specific items. For my final project, my group is creating an Uber-like website called "Ono One The Way" and we have been unaware that we were using design patterns until now. One that I found very interesting is the MVC (Model, View, Controller) pattern which I was completely unaware that most websites follow. This is the idea of implementing data in a way that we can see it. For our project, we use MongoDB as our database to hold information. From there, we can view the data using React as our ui design style, and using a router, place that component into our website. 
 
-Here, you can see that 
+Here, you can see the JS file that pulls the mongoDB database specifically for data on the Restaurants. This is the Model component.
+<img class="ui center medium image" src="../images/Database.png">
+
+Then the data is interpreted and created into cards that puts the database on display for people to see. This is the View component.
+<img class="ui center medium image" src="../images/Restaurant.png">
+
+Lastly, the page is rerouted so now that it can be shown inside our website. This is the controller component. 
+<img class="ui center medium image" src="../images/Controller.png">
+
+Even though it isn't breaking expectations or anything, design patterns like the MVC pattern is integral for organized and streamlined solutions to many coding problems. If practiced constantly, they will help make coding very efficient and easy for anyone who follows them. 
