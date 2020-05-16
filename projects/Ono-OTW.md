@@ -18,7 +18,7 @@ Ono On-The-Way was a website application that my team and I worked on as our fin
 
 
 For this project, we started off with a plethora of mock ups that my team worked together to make individually. After we agreed upon the overall design and functions, we got to work. 
-<img class="ui medium left image" src="../images/Mock-Up-1.png">
+<img class="ui medium image" src="../images/Mock-Up-1.png">
 
 For the user interface, I worked on various frontend and backend portions. I worked on the sign up page for inputting user information and modified the navbar a little bit. I also worked on the cart page system with my teammate Jenny so that the website can process the pricing totals for buying items (this included calculating taxes and adding deletion methods for individual items). In terms of backend, I worked on the MongoDB collections for the cart and a little bit of the menu items so that we can test if our cart page actually worked. Once most of the project was finished, I helped with small improvements to functionality as well as making adding forms so that admins can add new restaurants. 
 
