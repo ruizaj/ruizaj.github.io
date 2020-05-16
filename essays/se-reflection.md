@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Development Environments
   - Coding Standards
-  - Ethics
 ---
 
 
@@ -20,3 +19,7 @@ One crucial part of Software Engineering and coding in general is the tools that
 
 ## If You Can't Clean Your Room, Don't Expect Clean Code
 Another aspect of Software Engineering that stuck me was upholding good coding standards in any project that we are approaching. Not only does it help others understand where your thought process with code, it also helps you be able to debug and modify code without having to search through lines of typing. This was an aspect that seemed simple enough, but when it came to having files with upwards of 100 lines of code, having a good coding standard was paramount. From indenting forr when code is within a function, or commenting on specific parts are all needed if you want to keep track at all times of where you are. For our final project, coding standards was needed because not only are we working on our own code for different parts, we also need to look at each others code to know what needs fixing or improvements. If my teammate had a problem with their code and I wanted to help, I can't if their code is all on one line. With Software Engineering, I realized that like any other simple task, if you don't do something properly, it will bite you in the end. A code can work in the end, but if it is messy no one will understand it.
+
+There was so much other small fundamentals that Software Engineering helped me develop such as time management, team coordination, and much other important skills. Sure some of the skills that I mentioned earlier are ICS exclusive skills, but the skills I just mentioned will carry on in many other situations. Ultimately, I found out that finding motivation in the work you do and setting goals helps everything else flow easily. It was hard to find that motivation in other ICS classes, but when you finally get to put all those skills in a practical manner, the motivation naturally comes in. Overall, the experiences I had throughout learning Software Engineering in ICS 314 will drive my future goals and possibly attract me to more Software Engineering opportunities. 
+
+
