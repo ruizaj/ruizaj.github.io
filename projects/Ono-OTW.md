@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Surfing Cat.png	
-title: Surfing Cat
-permalink: projects/Surfing-Cat 
+title: Ono On-The-Way
+permalink: projects/Ono-OTW
 # All dates must be YYYY-MM-DD format!
 date: 2020-5-15
 labels:
