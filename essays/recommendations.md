@@ -9,7 +9,7 @@ labels:
   - Machine Learning
   - Social Media
 ---
-
+## Algorithms Code Our Minds
 People don’t realize this, but the reasons why many websites become popular are not because of their features at face value. Sure a cool and unique website will grab the normal viewer at first glance, but what keeps them staying is the functionality in the background, namely their recommendation algorithms. Algorithms is a word that loves to be thrown around in famous platforms like Youtube, Instagram, and Twitter because they get people to stay by giving them more of what they want. And although we aren’t trying to have our viewers in InternBit (or whatever our label will be in the future) stay for long periods of time, it will help in the long run to give them instant recommendations for job listings that they searched for before. In the end, our goal should be to have our viewers find job listings that they want without even needing the use of a search bar. So talk get straight to the point and talk about the pros and cons of different recommendation algorithms and relate them to real life examples.
 
 ## Content Based:
