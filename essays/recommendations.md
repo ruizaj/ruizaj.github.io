@@ -17,20 +17,20 @@ As one of the more major approaches to a recommendation system, it filters the c
 There are a few methods of finding the similarities of the item that you want, mainly the Cosine Similarity and Jaccard methods. Cosine similarity looks at the commonality of two items (i.e. the skills or common words in a job title) and produces a dot product between 0-1 (where 1 means perfect similarity). It’s a great method when there are many different metrics to calculate similarities for, but is also quite tedious as you must program code to check every property of a job listing for this method to give better results. Jaccard Similarity looks at the intersection over union of two items to give a similarity score. This is easier to make, but probably won’t work with job listings if there is a rating or ranking system implemented. Overall, if we are looking at individuality for a user’s experience with our website, this is the way to go.
 
 ### Pros:
-A great system for frequent users, as they get their job listings on what they have liked before.
-Recommendations evolve with the user. If a person wants a different kind of job listing, eventually the algorithm will adapt to recommend based on the new preference.
-Easier to implement as we only need individual databases to have their recommendations.
-The algorithm works without need of other user input.
+* A great system for frequent users, as they get their job listings on what they have liked before.
+* Recommendations evolve with the user. If a person wants a different kind of job listing, eventually the algorithm will adapt to recommend based on the new preference.
+* Easier to implement as we only need individual databases to have their recommendations.
+* The algorithm works without need of other user input.
 
 ### Cons:
-Not very “first-time user” friendly, can be circumvented with a personalized profiling for new accounts. A great example of this is Netflix’s personalization system which asks a set of questions for genre.
-Doesn’t recommend job listings out of what you prefer, making potentially good jobs unseen.
-Produces inaccurate recommendations if there isn’t enough information in the job listings to work with.
+* Not very “first-time user” friendly, can be circumvented with a personalized profiling for new accounts. A great example of this is Netflix’s personalization system which asks a set of questions for genre.
+* Doesn’t recommend job listings out of what you prefer, making potentially good jobs unseen.
+* Produces inaccurate recommendations if there isn’t enough information in the job listings to work with.
 
 ### Examples of Websites/Social Media Platform w/This Method:
-Netflix (Highly personalized recommendations, different tiers of similarity listing)
-TikTok (Its For You Page AKA “FYP” constantly changes recommendations off of likes and shares. Extremely fluid)
-Youtube (Advanced algorithm that recommends with a mixture of liked videos and subscription similarities)
+* Netflix (Highly personalized recommendations, different tiers of similarity listing)
+* TikTok (Its For You Page AKA “FYP” constantly changes recommendations off of likes and shares. Extremely fluid)
+* Youtube (Advanced algorithm that recommends with a mixture of liked videos and subscription similarities)
 
 ### How To Approach This Method:
 Similarity method to use would be the cosine similarity method as we are checking similarity through different metrics (Job Title, Company, Skills, etc.).
@@ -50,21 +50,21 @@ This also has two main methods to approach with: memory based and model based. M
 If you’re confused on how matrix factorization works as well as more help understanding collaborative filtering, watch [this](https://www.youtube.com/watch?v=n3RKsY2H-NE). 
 
 ### Pros:
-Provides a popularity system within recommendations (popular jobs on your interest is more likely to show up)
-Can provide very accurate recommendations with ample user input to work off on.
-Allows for jobs that slightly deviate from what you prefer to show up, allowing for more diversity in the recommendation listing.
+* Provides a popularity system within recommendations (popular jobs on your interest is more likely to show up)
+* Can provide very accurate recommendations with ample user input to work off on.
+* Allows for jobs that slightly deviate from what you prefer to show up, allowing for more diversity in the recommendation listing.
 
 ### Cons:
-Quite difficult to get accurate recommendations without a large user base.
-Harder to implement and interpret similarity results.
-Can be quite slow since it uses the entire database to determine recommendations.
-Popular job postings could overshadow less popular ones, causing many good listings to be unseen.
-Popular job postings = more competition
+* Quite difficult to get accurate recommendations without a large user base.
+* Harder to implement and interpret similarity results.
+* Can be quite slow since it uses the entire database to determine recommendations.
+* Popular job postings could overshadow less popular ones, causing many good listings to be unseen.
+  * Popular job postings = more competition
 
 ### Examples of This Method Used:
-Twitter: Famous for their retweet function that influences the algorithm to see more of what your friends are posting.
-Netflix: Works in tandem with the personalized recommendation system to show most popular shows/movies of your liking.
-Mostly every other social media platform.
+* Twitter: Famous for their retweet function that influences the algorithm to see more of what your friends are posting.
+* Netflix: Works in tandem with the personalized recommendation system to show most popular shows/movies of your liking.
+* Mostly every other social media platform.
 
 ### How to Approach This Method:
 Quite difficult as we don't really have a good amount of people to have accurate predictions, but hypothetically, we should use a memory based approach as it’s a way easier method to implement. 
