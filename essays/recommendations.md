@@ -5,13 +5,12 @@ title: Filtering With Individuality or Popularity?
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
-  - Coding Standards
   - Software Engineering
-  - ESLint
-  - IntelliJ
+  - Machine Learning
+  - Social Media
 ---
 
-People don’t realize this, but the reasons why many websites become popular are not because of their features at face value. Sure a cool and unique website will grab the normal viewer at first glance, but what keeps them staying is the functionality in the background, namely their recommendation algorithms. Algorithms are a word that loves to be thrown around in famous platforms like Youtube, Instagram, and Twitter. They get people to stay by giving them more of what they want. And although we aren’t trying to have our viewers in InternBit (or whatever our label will be in the future) stay for long periods of time, it will help in the long run to give them instant recommendations for job listings that they searched for before. In the end, our goal should be to have our viewers find job listings that they want without even needing the use of a search bar. This isn’t supposed to be a normal essay, so I’ll get straight to the point and talk about the pros and cons of different recommendation algorithms and relate them to real life examples.
+People don’t realize this, but the reasons why many websites become popular are not because of their features at face value. Sure a cool and unique website will grab the normal viewer at first glance, but what keeps them staying is the functionality in the background, namely their recommendation algorithms. Algorithms is a word that loves to be thrown around in famous platforms like Youtube, Instagram, and Twitter because they get people to stay by giving them more of what they want. And although we aren’t trying to have our viewers in InternBit (or whatever our label will be in the future) stay for long periods of time, it will help in the long run to give them instant recommendations for job listings that they searched for before. In the end, our goal should be to have our viewers find job listings that they want without even needing the use of a search bar. So talk get straight to the point and talk about the pros and cons of different recommendation algorithms and relate them to real life examples.
 
 ## Content Based:
 As one of the more major approaches to a recommendation system, it filters the content given to a user based on what they have liked/frequented previously and works to give them more of what they want. In a sense, the algorithm will only recommend job listings that are similar to what you search the most. 
