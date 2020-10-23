@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Filtering With Individuality or Popularity?
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-10-22
 labels:
   - Software Engineering
   - Machine Learning
