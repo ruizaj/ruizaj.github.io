@@ -20,15 +20,15 @@ One of the newer functions of the RadGrad system is the Personal To Do List, and
 As all of these tabs use a similar system of item selection into your profile, I thought it be good to review them as a whole. Each item card for these four sections are quite similar, but they have a really nice design. Since it is connected to a relative profile collections, you can tell which items are on your profile through the green tab, which is a very helpful addition. What I like most of the four is that they are connected by its related data for each item, which really intertwins the whole system like a giant tree. For example, if I wanted to become a Robotics Engineer, the related courses and intersts creates a distinct path to get towards that goal. Functionality wise, I think this is a very strong suit for the system. UI wise, there could be a few improvements to the design, namely the placement of the tags and the frequency of the item listings per row. Another item of note is the opportunities tab, which is honestly a really great portion that allows for very specific internships and events that feel much more specialized than the normal job listings you can see on sites like Indeed or LinkedIn. This also having related data to each listing helps out a lot. Overall these four tabs define RadGrad's functionality as a whole and it sets it apart as a very unique tool for ICS students.
 
 ## ICE and Its Levels
-The ICE system was the unique system in RadGrad that appealed to me initially as a student in the program because it quantifies the progress into our major in a way that shows how well a person is doing. I think this system is a really good push to students because in order to level up, not only do you need to take classes, but it enforces extra curriculum in order to fill out the I's and E's of the 3 disciplines. This however is where the system could come off as a very steep slope since the idea of the ICE system is that a student can level up once every semester and hit level 6 by their graduation, but reaching that can be quite difficult. For me, I'm level 3, pending level 4 however the jump to level 5 looks daunting to say the least. Also the requirements for each level isn't well specified in the "about the levels" which could be elaborated on in future iterations. 
+The ICE system was the unique system in RadGrad that appealed to me initially as a student in the program because it quantifies the progress into our major in a way that shows how well a person is doing. I think this system is a really good push to students because in order to level up, not only do you need to take classes, but it enforces extra curriculum in order to fill out the I's and E's of the 3 disciplines. This however is where the system could come off as a very steep slope since the idea of the ICE system is that a student can level up once every semester and hit level 6 by their graduation, but reaching that can be quite difficult. For me, I'm level 3, pending level 4 however the jump to level 5 looks daunting to say the least. I think most people agree that at least one internship and a few clubs will help quantify getting level 5 or 6 in the ICE requirements, but even though I did most of that I barely have level 4. I do like that the ICE tab does give recommendations for things to do for each letter of ICE. Also the requirements for each level isn't well specified in the "about the levels" which could be elaborated on in future iterations. Besides that, it's a solid incentive for students to look upon if they want to know if they are doing enough to do well in the field.
 
-### To Do List Concerns/Changes
-- The high priority implores to add courses and opportunities into the degree planner, but as of this time it doesn't work so that can't be done yet.
+## Recommendations/Notable Bugs
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
 
-## Recommendations/Notable Bugs
-- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab 
+![image](https://user-images.githubusercontent.com/60155925/118728787-75a8a800-b7d0-11eb-97b0-e4d151c0f1f7.png)
+
+- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab. 
 
 ![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
 
@@ -36,9 +36,13 @@ The ICE system was the unique system in RadGrad that appealed to me initially as
 
 ![image](https://user-images.githubusercontent.com/60155925/118718613-260faf80-b7c3-11eb-88a0-3677a45532d7.png)
 
+- There are duplicates of courses in the degree planner which you can't remove.
+
+![image](https://user-images.githubusercontent.com/60155925/118727885-37f74f80-b7cf-11eb-9893-fa428557fc3d.png)
+
+- Adding courses from the course tab doesn't show them into the degree planner.
 - The interest tab has items that don't have any related career goals, courses, or opportunities attached to them (like .NET or Azure). If it can't be helped to add them, then this can be negligible.
 - In the interest tab, "Theory of computation" should have the C capitalized.
 - The levels tab should show not only the level requirements of your next level, but the other levels as well.
 - Not all of the ICS classes are implemented into the site yet (notably ICS 427 and 438).
 - Courses Tab: Most of the 600+ level classes don't have interests on their cards.
-- 
