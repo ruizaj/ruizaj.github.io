@@ -31,8 +31,15 @@ The design could use some work as it could be much more appealing. Each rectangl
 
 Overall the planner as a whole is very beneficial to visualize a person's degree plan, but it's a tool that can't be use on its own. Students will most likely find that they would use this in tandem with STAR's degree planner to get the most out of its functionality. I think this is for the best because it does skirt the need to enforce prerequisite locks on adding classes since STAR already does that for students. 
 
+## Review System
+The last, but one of the most important features in RadGrad is the review system for every item in the four tabs. If you want more information for a class or an internship opportunity, nothing beats personal experience to hear from. It's a normal conventional review format with a 5 star rating with comments, but the simple of idea having that for all these items skips the need for Rate My Professors or asking classmates if they took the class before. There are a few concerns with inputting the reviews, most notably that even if you make a review, the system can't tell you have submitted one. Fortunately, you can edit reviews in it's respective tab on top, but being able to edit a review on the page you made it on would be a nice quality of life change. Overall this was a needed addition that just adds to the usefullness of the system overall. 
+
 ## Top 5 Strengths of RadGrad
-- Each of the four tabs of Interests, Careers, Courses, and Opportunities are all intertwined which allows users to see.  
+- Each of the four tabs of Interests, Careers, Courses, and Opportunities are all intertwined which allows users to see how every component correlates with each other. This cements the whole system as one package.
+- The ICE leveling system presents a refreshing progresion scale that helps students understand how well they are doing in their path to become ICS graduates.
+- Being closely connected with STAR's data, it allows for each student's profiles to be already tailored before they need to do anything. (For example, most of your classes that you took are already placed in the planner in their respective semester). It also allows for quick recommendations to be made for wherever a student is, no matter how late they started on RadGad.
+- The To Do List being the first thing a student does is a great way to push to understand the system and also expedites the process of what should be done so students will confidently be on track for excellence.
+- Having a review system mostly driven by previous students allows for newer students to understand that they are taking and to prepare for any surprises. 
 
 ## Recommendations/Notable Bugs
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
