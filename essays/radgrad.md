@@ -71,3 +71,9 @@ The last, but one of the most important features in RadGrad is the review system
 
 ![image](https://user-images.githubusercontent.com/60155925/118729239-3c246c80-b7d1-11eb-91a1-d2bd118c7a3e.png)
 
+- RadGrad can't tell that you made one despite showing up in the list of reviews on an item.
+
+![image](https://user-images.githubusercontent.com/60155925/118736843-39c90f00-b7df-11eb-8527-1de788593942.png)
+![image](https://user-images.githubusercontent.com/60155925/118736873-451c3a80-b7df-11eb-9b6f-75be32daa5fc.png)
+
+
