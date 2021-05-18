@@ -22,6 +22,9 @@ As all of these tabs use a similar system of item selection into your profile, I
 ## ICE and Its Levels
 The ICE system was the unique system in RadGrad that appealed to me initially as a student in the program because it quantifies the progress into our major in a way that shows how well a person is doing. I think this system is a really good push to students because in order to level up, not only do you need to take classes, but it enforces extra curriculum in order to fill out the I's and E's of the 3 disciplines. This however is where the system could come off as a very steep slope since the idea of the ICE system is that a student can level up once every semester and hit level 6 by their graduation, but reaching that can be quite difficult. For me, I'm level 3, pending level 4 however the jump to level 5 looks daunting to say the least. I think most people agree that at least one internship and a few clubs will help quantify getting level 5 or 6 in the ICE requirements, but even though I did most of that I barely have level 4. I do like that the ICE tab does give recommendations for things to do for each letter of ICE. Also the requirements for each level isn't well specified in the "about the levels" which could be elaborated on in future iterations. Besides that, it's a solid incentive for students to look upon if they want to know if they are doing enough to do well in the field.
 
+## Planner
+The degree planner for RadGrad is quite a helpful tool, but currently seems to be the buggiest in this current iteration. I think it's great for students to draw out their ICS classes that they should take as the semesters go along. However this causes a few pitfalls, one being that making a planner for your 4 years assumes that you don't drop a single class. If someone wanted to take ICS 311 last semester, but failed ICS 241 this semester, they are virtually held back a semester meaning that they would need to change in there planner to fit the new path. Another problem that I can see for new users of the system is that adding future classes can be quite confusing. Instead of being able to directly add classes/opportunities that you want from a list on the planner, you would have to find it first in their respective tabs, add them to your profile, and finally add them from your added list into its respective semester. Currently, adding classes to your profile doesn't show up in the planner. I will elaborate on the bugs in the Recommendations/Notable Bugs sections of this essay review, but needless to say it doesn't seem that related data is working on the planner for some portions of its functionality. The planner is directly tied to ICE points so any problems with the data directly affects people's ICE progress. The design could use some work as it could be much more appealing. Overall the planner as a whole is very beneficial to visualize a person's degree plan, but it's a tool that can't be use on its own.
+
 ## Recommendations/Notable Bugs
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
@@ -43,6 +46,13 @@ The ICE system was the unique system in RadGrad that appealed to me initially as
 - Adding courses from the course tab doesn't show them into the degree planner.
 - The interest tab has items that don't have any related career goals, courses, or opportunities attached to them (like .NET or Azure). If it can't be helped to add them, then this can be negligible.
 - In the interest tab, "Theory of computation" should have the C capitalized.
+
+![image](https://user-images.githubusercontent.com/60155925/118729120-1008eb80-b7d1-11eb-969c-18b8dc8ed4e2.png)
+
 - The levels tab should show not only the level requirements of your next level, but the other levels as well.
 - Not all of the ICS classes are implemented into the site yet (notably ICS 427 and 438).
 - Courses Tab: Most of the 600+ level classes don't have interests on their cards.
+
+![image](https://user-images.githubusercontent.com/60155925/118729239-3c246c80-b7d1-11eb-91a1-d2bd118c7a3e.png)
+
+-
