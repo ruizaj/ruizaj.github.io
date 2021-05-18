@@ -22,8 +22,12 @@ One of the newer functions of the RadGrad system is the Personal To Do List, and
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
 
-## Recommendations
+## Recommendations/Notable Bugs
 - The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab 
+
 ![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
 
+- Using the website anything other than fullscreen can cause some unnecessary overlapping on some pages like Opportunities.
+
+![image](https://user-images.githubusercontent.com/60155925/118718613-260faf80-b7c3-11eb-88a0-3677a45532d7.png)
 
