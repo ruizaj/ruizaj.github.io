@@ -41,13 +41,15 @@ The last, but one of the most important features in RadGrad is the review system
 - The To Do List being the first thing a student does is a great way to push to understand the system and also expedites the process of what should be done so students will confidently be on track for excellence.
 - Having a review system mostly driven by previous students allows for newer students to understand that they are taking and to prepare for any surprises. 
 
+## Top 5 Weaknesses of RadGrad
+- 
 ## Recommendations/Notable Bugs
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
 
 ![image](https://user-images.githubusercontent.com/60155925/118728787-75a8a800-b7d0-11eb-97b0-e4d151c0f1f7.png)
 
-- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab. 
+- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related interest tags. 
 
 ![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
 
