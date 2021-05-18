@@ -23,7 +23,7 @@ One of the newer functions of the RadGrad system is the Personal To Do List, and
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
 
 ## Recommendations
-- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab ![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
+- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related skills tab 
+![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
 
-- ![Uploading image.png…]()
 
