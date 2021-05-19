@@ -34,24 +34,26 @@ Overall the planner as a whole is very beneficial to visualize a person's degree
 ## Review System
 The last, but one of the most important features in RadGrad is the review system for every item in the four tabs. If you want more information for a class or an internship opportunity, nothing beats personal experience to hear from. It's a normal conventional review format with a 5 star rating with comments, but the simple of idea having that for all these items skips the need for Rate My Professors or asking classmates if they took the class before. There are a few concerns with inputting the reviews, most notably that even if you make a review, the system can't tell you have submitted one. Fortunately, you can edit reviews in it's respective tab on top, but being able to edit a review on the page you made it on would be a nice quality of life change. Overall this was a needed addition that just adds to the usefullness of the system overall. 
 
-## Top 5 Strengths of RadGrad
+## Top Strengths of RadGrad
 - Each of the four tabs of Interests, Careers, Courses, and Opportunities are all intertwined which allows users to see how every component correlates with each other. This cements the whole system as one package.
 - The ICE leveling system presents a refreshing progresion scale that helps students understand how well they are doing in their path to become ICS graduates.
 - Being closely connected with STAR's data, it allows for each student's profiles to be already tailored before they need to do anything. (For example, most of your classes that you took are already placed in the planner in their respective semester). It also allows for quick recommendations to be made for wherever a student is, no matter how late they started on RadGad.
 - The To Do List being the first thing a student does is a great way to push to understand the system and also expedites the process of what should be done so students will confidently be on track for excellence.
-- Having a review system mostly driven by previous students allows for newer students to understand that they are taking and to prepare for any surprises. 
 
-## Top 5 Weaknesses of RadGrad
+## Top Weaknesses of RadGrad
+- The UI could use some work, like the design of the planner which is finicky with the drag and drop function. Some of the cards also have unnecessary padding on their titles.
+
+![image](https://user-images.githubusercontent.com/60155925/118869527-34bc9c00-b881-11eb-880c-7dd746ddcf0f.png)
+
+- The ICE level system could use some more elaboration for those confused on how to level up. Specifying the leveling requirements for each level in the "ABOUT THE LEVELS" tab could help with that.
+- The To Do List does specify tasks with relative priority, but some of the highest priority tasks can't be completed like the Courses since a good chunk of ICS courses aren't in the courses tab. 
+- Although the planner is a great addition for students to formulate their entire ICS progression, the lack of outside prerequisites for certain classes could result in a faulty schedule. Failing a class could also result in the entire planner needing to be changed as well. Currently the planner has to be used with STAR's planner, but we can definitely improve it to be its own standalone concept.
 - 
 ## Recommendations/Notable Bugs
 - The reviews task doesn't let you opt out of opportunities that you don't have much to say about (for me personally would be the career fair).
 - I think that the medium priority should be changed to low priority, and the low priority to be a completed tab to reduce confusion for newer users.
 
 ![image](https://user-images.githubusercontent.com/60155925/118728787-75a8a800-b7d0-11eb-97b0-e4d151c0f1f7.png)
-
-- The semester tags on the Opportunities tab being on the top of the title doesn't look like a good place to put them. Perhaps we can make another section under related interest tags. 
-
-![image](https://user-images.githubusercontent.com/60155925/118718287-c74a3600-b7c2-11eb-8ae4-737f20673bb8.png)
 
 - Using the website anything other than fullscreen can cause some unnecessary overlapping on some pages like Opportunities.
 
