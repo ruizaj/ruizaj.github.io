@@ -34,4 +34,7 @@ This is when a different user uses the same URL path:
 
 ![image](https://user-images.githubusercontent.com/60155925/119194685-2ad09f80-ba1f-11eb-9b75-53c92ec7d0f4.png)
 
+## Task 3
+Task 3 has us add a random career card everytime you reload the page. This one stumped me because my preconceived idea to approach this problem was using ```<Card.Group>``` and mapping a random singular card since I assumed that the career data within the career goals tab used a similar method to display it's pages. After talking to a few members, I decided to create the data from scratch by importing data from the careerGoals collection. Getting the length was simple enough, but mapping random career data proved a little difficult. After searching the Markdown usage and looking at the parameters of careerGoal, I modified the segment to show random items. 
+
 
