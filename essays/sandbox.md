@@ -14,8 +14,7 @@ RadGrad's coding environment feels quite similar, but very different in many are
 ## Task 1
 This task is the standard starter problem for most ICS students, but the approach is something quite new to me. The PageLayout and RadGradSegment components remind me of Semantic UI's but with adding style and other elements as consts. It's also great that typescript forces the code to be exactly how it is intended.
 
-![image](https://user-images.githubusercontent.com/60155925/119189166-69625c00-ba17-11eb-8ad9-932505cfe8fd.png)
-![image](https://user-images.githubusercontent.com/60155925/119189199-77b07800-ba17-11eb-9cb5-06194ac9e759.png)
+![image](https://user-images.githubusercontent.com/60155925/119190428-0e316900-ba19-11eb-8960-4e5e424e9024.png)
 
 This is how the task resulted as:
 
