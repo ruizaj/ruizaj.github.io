@@ -21,3 +21,7 @@ This is how the task resulted as:
 ![image](https://user-images.githubusercontent.com/60155925/119189388-b8a88c80-ba17-11eb-88ab-b5dd5c83f426.png)
 
 
+## Task 2
+This task has a segment that displays the user who is looking at this sandbox page as well as the user who created this page. The difficulty for me was understanding how to display grab a user from the router URL path. After doing a bit of searching, I realized that you can grab parameters of the URL with ```useParams()```. So I ultimately grabbed the username from the URL, and displayed it within the segment.
+
+![image](https://user-images.githubusercontent.com/60155925/119193666-a6315180-ba1d-11eb-9388-2e9c95ea6546.png)
