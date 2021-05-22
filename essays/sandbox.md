@@ -39,4 +39,11 @@ Task 3 has us add a random career card everytime you reload the page. This one s
 
 <img class="ui right floated image" src="../images/Task3.gif">
 
+## Task 4
+Task 4 has us now add labels to a segment connected our name so that if a tag is in our profile, it will highlight. This problem is much easier after finishing Task 3 as it uses the same concept of importing collections withTracker and adding them to an interface the component will use. The only problem I had was understanding what slugs were at first, but besides that, it was a good refresher on mapping items with their unique id's and displaying them. Another small thing to not was that there was more students in the tag than displayed, which would be attributed to changing ```.findNonReried();``` to ```.find({ isAlumni: false }).fetch()```.
+
+![image](https://user-images.githubusercontent.com/60155925/119240448-4608e100-baeb-11eb-9e3e-df45f98557cb.png)
+
+
+
 
