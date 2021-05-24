@@ -46,7 +46,7 @@ Task 4 has us now add labels to a segment connected our name so that if a tag is
 ## Task 5
 Task 5 is to add a submit form that chooses an interest and displays it on submission using Uniform. This task was a huge refresher since I haven't dabbled with schemas since 314, but InternAloha helped with understanding the forms initially. Using AddInterestForm.tsx as a reference, I created a schema implementing the Interest collection. I then created the segment like the other tasks, while adding an AutoForm that uses a SelectField and a SubmitField. Then I made an ```onSubmit()``` function which updates the description on button submission. All I needed to do after was use Markdown from earlier tasks and uses the descrition as its source.
 
-![image](https://user-images.githubusercontent.com/60155925/119405156-89468980-bc7c-11eb-8f42-60f1857a00e1.png)
+<img class="ui center image" src="../images/Task5Result.png">
 
 
 
