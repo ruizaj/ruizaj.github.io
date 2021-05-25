@@ -63,11 +63,11 @@ But editing on the RadGrad account allows the edit to go through.
 The last task was pretty great as it is creatively testing out the tabs and modals within our RadGrad sandbox. As this is something that I have done with InternAloha before, it isn't too much of an issue, but trying these components with this new coding style is quite nice. One of the ideas that Cam suggested was adding a modal within a tab, so I tested that idea out by creating Task 1 and 3 tabs. I also added tabs that calls course and interest labels just to test out the tab functionality. Overall this was a nice exercise to top off the entire sandboxing exercise.
 
 
-<img class="ui center image" src="../images/Task7Result.png">
+<img class="ui center image" src="../images/Task7Results.png">
 
 After clicking on the button within Task 3's tab, the modal pops up:
 
-<img class="ui center image" src="../images/Task7Result2.png">
+<img class="ui center image" src="../images/Task7Results2.png">
 
 
 
