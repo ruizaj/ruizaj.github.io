@@ -48,6 +48,18 @@ Task 5 is to add a submit form that chooses an interest and displays it on submi
 
 <img class="ui center image" src="../images/Task5Result.png">
 
+## Task 6
+Task 6 was a continuation of task 5 in the sense that instead of displaying descriptions, we create a form on submit to be able to edit the descriptions instead. This one wasn't too difficult a task, but I did use EditStudentButton.tsx for inspiration on the swal submit usage. This new submit form impends the new description onto the respective ```._id``` of the Interest in the collection.
+
+Trying to edit the description on a student account will fail due to lack of admin privileges.
+
+![image](https://user-images.githubusercontent.com/60155925/119556787-22d47080-bd3b-11eb-9a37-b5fb569ab1b1.png)
+
+But editing on the RadGrad account allows the edit to go through.
+
+![image](https://user-images.githubusercontent.com/60155925/119556901-413a6c00-bd3b-11eb-9402-963511fc6263.png)
+
+
 
 
 
