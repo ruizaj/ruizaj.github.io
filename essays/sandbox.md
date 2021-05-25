@@ -53,11 +53,11 @@ Task 6 was a continuation of task 5 in the sense that instead of displaying desc
 
 Trying to edit the description on a student account will fail due to lack of admin privileges.
 
-![image](https://user-images.githubusercontent.com/60155925/119556787-22d47080-bd3b-11eb-9a37-b5fb569ab1b1.png)
+<img class="ui center image" src="../images/Task6Result.png">
 
 But editing on the RadGrad account allows the edit to go through.
 
-![image](https://user-images.githubusercontent.com/60155925/119556901-413a6c00-bd3b-11eb-9402-963511fc6263.png)
+<img class="ui center image" src="../images/Task6Result2.png">
 
 
 
