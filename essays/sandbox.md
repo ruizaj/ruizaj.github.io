@@ -59,6 +59,11 @@ But editing on the RadGrad account allows the edit to go through.
 
 <img class="ui center image" src="../images/Task6Result2.png">
 
+## Task 7
+The last task was pretty great as it is creatively testing out the tabs and modals within our RadGrad sandbox. As this is something that I have done with InternAloha before, it isn't too much of an issue, but trying these components with this new coding style is quite nice. One of the ideas that Cam suggested was adding a modal within a tab, so I tested that idea out by creating Task 1 and 3 tabs. I also added tabs that calls course and interest labels just to test out the tab functionality. Overall this was a nice exercise to top off the entire sandboxing exercise.
+
+
+![image](https://user-images.githubusercontent.com/60155925/119563747-ab570f00-bd43-11eb-87f7-e7d9f582fbd0.png)
 
 
 
